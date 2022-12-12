@@ -1,3 +1,6 @@
-
+.btn {
+  padding: 10px;
+  border-radius: get-border-radius(15);
+}
 
 /*# sourceMappingURL=styles.css.map */
